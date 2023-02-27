@@ -6,6 +6,12 @@ public class Calcul {
         System.out.printf("%.2f",result);
         return result;
     }
+    static  public double sCube(double side){
+        double result =side*4;
+        System.out.println(result);
+        return result;
+    }
+
 
 }
 
